@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Node, React**
 
-- 👨‍💻 All of my projects are available at [karendu.netlify.app](karendu.netlify.app)
+- 👨‍💻 All of my projects are available at: [karendu.netlify.app](karendu.netlify.app)
 
-- ⚡ Fun fact **I build models out of trash.**
+- ⚡ Fun fact: **I build models out of trash.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
