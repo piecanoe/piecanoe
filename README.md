@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Smol Fortune](https://smolfortune.com)
 
-- 🌱 I’m currently learning **Node, React**
+- 🌱 I’m currently learning **Node.js, Express, React, MongoDB**
 
 - 👨‍💻 All of my projects are available at: [karendu.netlify.app](https://karendu.netlify.app)
 
