@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, PHP,**
 
-- 👨‍💻 All of my projects are available at [karendu.netlify.app](karendu.netlify.app)
+- 👨‍💻 All of my projects are available at [karendu.netlify.app](https://karendu.netlify.app)
 
 - 📫 How to reach me **karenkaydu@gmail.com**
 
