@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karen</h1>
 <h3 align="center">Filmmaker turned Software Engineer</h3>
 
-- 🔭 I’m currently working on **Power Hour**
+- 🔭 I’m currently working on **[Power Hour](https://github.com/piecanoe/power-hour)**
 
 - 🌱 I’m currently learning **React.js, PHP,**
 
