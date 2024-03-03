@@ -9,10 +9,12 @@
 
 - 📫 How to reach me **karenkaydu2@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies</h3>
 
 <div >
+	<picture>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
+	</picture>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 	<img width="50" src="https://camo.githubusercontent.com/93e4e94382fb2211baf595fd981ec363e1400d1ad208321396344b2eb998b51f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667" alt="HTML" title="HTML"/>
 	<img width="50" src="https://camo.githubusercontent.com/10e5da35078001d86532bb75efeecf75aaca2765af099b3a2592a22fd12cb2e0/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667" alt="CSS" title="CSS"/>
