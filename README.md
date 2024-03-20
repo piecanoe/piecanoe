@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **karenkaydu2@gmail.com**
 
-<h3 align="left">Technologies</h3>
+<h3 align="left">Technologies I Use</h3>
 
 <div >
 	<picture>
