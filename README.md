@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karen</h1>
 <h3 align="center">Filmmaker turned Software Engineer</h3>
 
-- 🔭 I’m currently working on a smart shopping list with **[The Collab Lab](https://the-collab-lab.codes)** and **[Power Hour](https://github.com/piecanoe/power-hour)**
+- 🔭 My most recent project is a smart shopping list with **[The Collab Lab](https://the-collab-lab.codes)**
 
-- 🌱 I’m currently learning **React.js** and **Firebase**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 My portfolio: **[karendu.netlify.app](https://karendu.netlify.app)**
 
