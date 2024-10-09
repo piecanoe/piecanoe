@@ -12,7 +12,18 @@
 <h3 align="left">Technologies I Use:</h3>
 
 <div >
-	<picture>
+
+- React.js
+- HTML5
+- CSS3
+- Node.js
+- MongoDB
+- Express
+- Tailwind CSS
+- GitHub
+- Postman
+- Figma
+<!-- 	<picture>
 		<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	</picture>
 	<picture>
@@ -58,4 +69,4 @@
   <a href="https://www.linkedin.com/in/karenkdu/" target="_blank" rel="noopener noreferrer" alt="LinkedIn" title="LinkedIn">
     <img width="50" src="https://camo.githubusercontent.com/6eeeae9698286e45eda5d2973026a896fd42fa7f4271bf31aa74e9557e82181a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"/>  
   </a>
-</div>
+</div> -->
